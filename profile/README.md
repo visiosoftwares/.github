@@ -1,7 +1,13 @@
-<div style="display:flex; align-items:center; justify-content:space-between; gap:16px; margin-bottom:16px; flex-wrap:wrap;">
-  <h1 style="margin:0;">Visio Softwares</h1>
-  <img src="../assets/logo_visio_gray.png" alt="Logo da Visio Softwares" width="220" style="display:block; margin-left:auto;" />
-</div>
+<table style="width:100%; border-collapse:collapse; margin-bottom:16px;">
+  <tr>
+    <td style="padding:0; vertical-align:middle;">
+      <h1 style="margin:0;">Visio Softwares</h1>
+    </td>
+    <td style="padding:0; text-align:right; vertical-align:middle;">
+      <img src="../assets/logo_visio_gray.png" alt="Logo da Visio Softwares" width="220" style="display:block; margin-left:auto;" />
+    </td>
+  </tr>
+</table>
 
 Bem-vindo à organização Visio Softwares.
 
