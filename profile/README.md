@@ -1,8 +1,9 @@
 # Visio Softwares
 
-<p align="center">
-  <img src="../assets/logo_visio_gray.png" alt="Logo da Visio Softwares" width="220" style="position:absolute;top:0px;right:0px"/>
-</p>
+<div style="position:relative; min-height:70px; margin-bottom:16px;">
+  <h1 style="margin:0;">Visio Softwares</h1>
+  <img src="../assets/logo_visio_gray.png" alt="Logo da Visio Softwares" width="220" style="position:absolute; top:0; right:0; display:block;" />
+</div>
 
 Bem-vindo à organização Visio Softwares.
 
