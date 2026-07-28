@@ -1,5 +1,9 @@
 # Visio Softwares
 
+<p align="center">
+  <img src="assets/logo_visio_gray.png" alt="Logo da Visio Softwares" width="220" style="position:absolute;top:0px;right:0px"/>
+</p>
+
 Bem-vindo à organização Visio Softwares.
 
 Este espaço serve como referência para orientar colaboradores e times sobre a forma de atuação da organização no ambiente de desenvolvimento.
