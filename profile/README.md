@@ -1,4 +1,4 @@
-<table style="width:100%; border-collapse:collapse; border:none; margin-bottom:16px;">
+<table style="width:100%; border-collapse:collapse; margin-bottom:16px;">
   <tr>
     <td style="padding:0; vertical-align:middle; border:none;">
       <h1 style="margin:0;">Visio Softwares</h1>
@@ -6,6 +6,9 @@
     <td style="padding:0; text-align:right; vertical-align:middle; border:none;">
       <img src="../assets/logo_visio_gray.png" alt="Logo da Visio Softwares" width="220" style="display:block; margin-left:auto;" />
     </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding:0; border-bottom:1px solid #d0d7de;"></td>
   </tr>
 </table>
 
