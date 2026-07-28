@@ -1,7 +1,4 @@
-<div style="display:flex; align-items:center; justify-content:space-between; width:100%; margin-bottom:16px; padding-bottom:8px; border-bottom:1px solid #d0d7de;">
-  <div style="font-size:2em; font-weight:700; margin:0; text-decoration:none;">Visio Softwares</div>
-  <img src="../assets/logo_visio_gray.png" alt="Logo da Visio Softwares" width="220" style="display:block;" />
-</div>
+## Visio Softwares <img src="../assets/logo_visio_gray.png" alt="Logo da Visio Softwares" width="220" style="display:block;" />
 
 Bem-vindo à organização Visio Softwares.
 
