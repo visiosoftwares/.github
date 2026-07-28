@@ -1,6 +1,6 @@
-<div style="display:flex; justify-content:space-between; align-items:center; gap:16px; margin-bottom:16px; flex-wrap:wrap;">
+<div style="display:flex; align-items:center; justify-content:space-between; gap:16px; margin-bottom:16px; flex-wrap:wrap;">
   <h1 style="margin:0;">Visio Softwares</h1>
-  <img src="../assets/logo_visio_gray.png" alt="Logo da Visio Softwares" width="220" style="display:block;" />
+  <img src="../assets/logo_visio_gray.png" alt="Logo da Visio Softwares" width="220" style="display:block; margin-left:auto;" />
 </div>
 
 Bem-vindo à organização Visio Softwares.
